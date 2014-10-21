@@ -1,0 +1,14 @@
+E:\Code\C#\Pickanum\Pickanum\bin\Debug\Pickanum.exe
+E:\Code\C#\Pickanum\Pickanum\bin\Debug\Pickanum.pdb
+E:\Code\C#\Pickanum\Pickanum\obj\Debug\Pickanum.csprojResolveAssemblyReference.cache
+E:\Code\C#\Pickanum\Pickanum\obj\Debug\Pickanum.MainForm.resources
+E:\Code\C#\Pickanum\Pickanum\obj\Debug\Pickanum.csproj.GenerateResource.Cache
+E:\Code\C#\Pickanum\Pickanum\obj\Debug\Pickanum.exe
+E:\Code\C#\Pickanum\Pickanum\obj\Debug\Pickanum.pdb
+E:\Pickanum\Pickanum\obj\Debug\Pickanum.exe
+E:\Pickanum\Pickanum\obj\Debug\Pickanum.pdb
+E:\Pickanum\Pickanum\bin\Debug\Pickanum.exe
+E:\Pickanum\Pickanum\bin\Debug\Pickanum.pdb
+E:\Pickanum\Pickanum\obj\Debug\Pickanum.csprojResolveAssemblyReference.cache
+E:\Pickanum\Pickanum\obj\Debug\Pickanum.MainForm.resources
+E:\Pickanum\Pickanum\obj\Debug\Pickanum.csproj.GenerateResource.Cache
